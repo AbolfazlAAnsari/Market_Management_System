@@ -1,8 +1,8 @@
 # Market_Management_System
-The Market Management System is a project to design and implement a comprehensive database for efficient market management. It stores and organizes information on products, distributors, customers, orders, and other entities.
+A comprehensive database for efficient market management.
 
 ## Problem Description
-
+This Database organizes information on products, distributors, customers, orders, and other entities.
 The Market Management System addresses the need for an organized and streamlined approach to managing a market. It aims to provide a centralized database to store and manage information related to products, distributors, customers, orders, and other relevant entities.
 
 ## Entities
